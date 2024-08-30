@@ -9,7 +9,7 @@ Flow login
     Maximize Browser Window
     Capture Page Screenshot
     Wait Until Page Contains Element    id=exampleModalLabel
-    Click Link   รายละเอียดdddddd
+    Click Link   รายละเอียด
 
     Switch Window	NEW
     Wait Until Page Contains Element    xpath:/html/body/section/section/div/div/div[2]/h4[3]
