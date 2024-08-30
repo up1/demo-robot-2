@@ -5,7 +5,7 @@ Test Teardown     Close Browser
 *** Test Cases ***
 Flow login
     Open Browser    https://efiling.rd.go.th/rd-cms/    chrome
-    ...  remote_url=http://157.230.37.178:4444/wd/hub
+    ...  remote_url=http://157.230.41.194:4444/wd/hub
     Maximize Browser Window
     Capture Page Screenshot
     Wait Until Page Contains Element    id=exampleModalLabel
